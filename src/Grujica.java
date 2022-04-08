@@ -5,6 +5,6 @@ public class Grujica {
 
         // comment
 
-
+       // comment 2
     }
 }
