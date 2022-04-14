@@ -1,4 +1,4 @@
-package CodingBatWarmup1;
+package Students;
 
 public class Haijing1stClass {
     public static void main(String[] args) {
