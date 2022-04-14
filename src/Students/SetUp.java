@@ -1,5 +1,3 @@
-package Students;
-
 public class SetUp {
     //Setting the project for everyone
 
@@ -11,5 +9,5 @@ public class SetUp {
 
     // new changes are coming
 
-    //Loan added new comment
+    //Haijing made one new line
 }
